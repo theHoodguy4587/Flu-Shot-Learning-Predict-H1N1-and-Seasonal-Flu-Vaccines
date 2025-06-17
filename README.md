@@ -27,4 +27,4 @@ Submitted to the official DrivenData competition:
 **Score:** 0.8346  
 **Rank:** #1349  
 
-![Submission Screenshot](images/submission_proof.png)
+![Submission Screenshot](images/submission_proof.png.png)
