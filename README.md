@@ -14,7 +14,6 @@ Predict H1N1 and seasonal flu vaccination behavior using survey data collected d
 ## 📁 Files
 - `notebooks/flu_prediction.ipynb`: EDA and model training
 - `submission/submission.csv`: Prediction file for submission
-- `requirements.txt`: Python libraries (optional)
 
 ## 🔗 Links
 - [Competition Page](https://www.drivendata.org/competitions/66/flu-shot-learning/)
